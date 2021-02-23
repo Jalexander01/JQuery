@@ -1,1 +1,1 @@
-# JQuery
+# Simon Game using JQuery
