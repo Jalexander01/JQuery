@@ -16,6 +16,11 @@ body {
   margin: auto;
 
 }
+img{
+  margin: 25px;
+  height: 250px;
+  width: 250px;
+}
 
 .btn {
   margin: 25px;
